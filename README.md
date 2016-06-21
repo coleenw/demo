@@ -1,16 +1,4 @@
-ZendSkeletonApplication
-=======================
-
-Introduction
-------------
-This is a simple, skeleton application using the ZF2 MVC layer and module
-systems. This application is meant to be used as a starting place for those
-looking to get their feet wet with ZF2.
-
-Installation using Composer
----------------------------
-
-The easiest way to create a new ZF2 project is to use [Composer](https://getcomposer.org/). If you don't have it already installed, then please install as per the [documentation](https://getcomposer.org/doc/00-intro.md).
+oser.org/). If you don't have it already installed, then please install as per the [documentation](https://getcomposer.org/doc/00-intro.md).
 
 
 Create your new ZF2 project:
