@@ -1,0 +1,21 @@
+create table users(
+    users_id int(10) auto_increment primary key,
+    users_age int(3),
+    users_firstname varchar(255),
+    users_lastname varchar(255)
+);
+
+insert into users(users_firstname, users_lastname, users_age)
+values("Gary", "Tong", "28");
+
+insert into users(users_firstname, users_lastname, users_age)
+values("John", "Doe", "20");
+
+insert into users(users_firstname, users_lastname, users_age)
+values("Jane", "Doe", "21");
+
+insert into users(users_firstname, users_lastname, users_age)
+values("John", "Smith", "28");
+
+insert into users(users_firstname, users_lastname, users_age)
+values("Jane", "Smith", "22");
